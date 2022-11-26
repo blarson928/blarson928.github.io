@@ -1,8 +1,8 @@
 # BLARSON928
 
-##SPORTS
+## SPORTS
 
-###BEST PLAYERS
+### BEST PLAYERS
 
 Football-Patrick Mahomes
 
@@ -12,7 +12,7 @@ Basketball-Steph Curry
 
 Hockey-Connor Mcdavid
 
-###BEST TEAMS
+### BEST TEAMS
 
 Football-Los Angeles Rams
 
@@ -22,7 +22,7 @@ Basketball-Golden State Warriors
 
 Hockey-Colorado Avalanche
 
-##SCRATCH
+## SCRATCH
 
 Here is a link to my scratch account
 
